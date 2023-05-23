@@ -6,7 +6,7 @@ pluginManagement {
     }
 }
 rootProject.name = 'highcourse'
-include 'api'
+include 'external-api'
 include 'core'
 include 'web'
 
