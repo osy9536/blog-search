@@ -24,7 +24,7 @@
       - 카카오, 네이버 API를 활용한 검색
   - 동시성 이슈
       - 검색어 키워드 저장에 대한 효율적인 동시성 제어를 고려하여 개선
-      - 카프카 이용 - 카프카 이론(https://panoramic-april-f6f.notion.site/Kafka-c595f1a3510b41b1a26714f046014ff7)
+      - 카프카 이용 - 카프카 이론(https://panoramic-april-f6f.notion.site/Kafka-c595f1a3510b41b1a26714f046014ff7)  
                    - 카프카 설치(https://panoramic-april-f6f.notion.site/dca3cff2739d47ea9b819e82dc009864)
 ## 작업 예정
   - 서킷브레이커 적용
